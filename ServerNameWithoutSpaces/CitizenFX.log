@@ -1,0 +1,266 @@
+[         0] Initializing Mono
+[       109] Initializing Mono completed
+[       156] Hello!
+[       234] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       281] Found new resource fivem in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem
+[       297] Found new resource fivem-awesome1501 in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-awesome1501
+[       312] Found new resource fivem-map-hipster in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-hipster
+[       328] Found new resource fivem-map-skater in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-skater
+[       328] Found new resource runcode in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//runcode
+[       343] Found new resource race in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race
+[       359] Found new resource race-test in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race-test
+[       375] Found new resource channelfeed in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       375] Found new resource irc in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/irc
+[       390] Found new resource obituary in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary
+[       406] Found new resource obituary-deaths in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       422] Found new resource playernames in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/playernames
+[       422] Found new resource mapmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[managers]/mapmanager
+[       437] Found new resource baseevents in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/baseevents
+[       453] Found new resource chat in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/chat
+[       468] Found new resource hardcap in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/hardcap
+[       484] Found new resource rconlog in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/rconlog
+[       500] Found new resource scoreboard in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/scoreboard
+[       515] Found new resource sessionmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/sessionmanager
+[       515] Found new resource spawnmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/spawnmanager
+[       531] Found new resource betaguns in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/betaguns
+[       547] Found new resource gameInit in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/gameInit
+[       562] Found new resource keks in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/keks
+[       609] Started resource sessionmanager
+[      1687] Started resource mapmanager
+[      1812] Started resource chat
+[      1828] Started resource spawnmanager
+[      1859] Started gametype Freeroam
+[      1859] Started resource fivem
+[      1875] Started resource hardcap
+[      1906] Started resource rconlog
+[      1953] Started resource scoreboard
+[      1984] Started resource playernames
+[      1984] Authenticating server license key...
+[      4312] Server license key authentication succeeded. Welcome!
+[      4375] Sending heartbeat to live-internal.fivem.net:30110
+[      4390] Started map fivem-map-hipster
+[      4390] Started resource fivem-map-hipster
+[    184422] Sending heartbeat to live-internal.fivem.net:30110
+[    454953] Sending heartbeat to live-internal.fivem.net:30110
+[    454968] hitch warning: frame time of 90484 milliseconds
+[         0] Initializing Mono
+[        62] Initializing Mono completed
+[        78] Hello!
+[       250] Found new resource fivem in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem
+[       265] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       281] Found new resource fivem-awesome1501 in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-awesome1501
+[       312] Found new resource fivem-map-hipster in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-hipster
+[       343] Found new resource fivem-map-skater in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-skater
+[       375] Found new resource runcode in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//runcode
+[       406] Found new resource race in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race
+[       421] Found new resource race-test in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       484] Found new resource irc in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/irc
+[       515] Found new resource obituary in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary
+[       546] Found new resource obituary-deaths in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       562] Found new resource playernames in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/playernames
+[       593] Found new resource mapmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[managers]/mapmanager
+[       625] Found new resource baseevents in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/baseevents
+[       656] Found new resource chat in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/chat
+[       687] Found new resource hardcap in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/hardcap
+[       703] Found new resource rconlog in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/rconlog
+[       734] Found new resource scoreboard in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/scoreboard
+[       765] Found new resource sessionmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/sessionmanager
+[       796] Found new resource spawnmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/spawnmanager
+[       828] Found new resource betaguns in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/betaguns
+[       875] Found new resource gameInit in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/gameInit
+[       906] Found new resource keks in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/keks
+[      1031] Started resource sessionmanager
+[      1078] Started resource mapmanager
+[      1125] Started resource chat
+[      1140] Started resource spawnmanager
+[      1156] Started gametype Freeroam
+[      1187] Started resource fivem
+[      1203] Started resource hardcap
+[      1250] Started resource rconlog
+[      1265] Started resource scoreboard
+[      1312] Started resource playernames
+[      1328] Authenticating server license key...
+[      2437] Server license key authentication succeeded. Welcome!
+[      2500] Sending heartbeat to live-internal.fivem.net:30110
+[      2531] Started map fivem-map-skater
+[      2546] Started resource fivem-map-skater
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] ^3Couldn't find resource sessionmanager.^7
+[       125] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       110] Found new resource fivem in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-skater
+[       156] Found new resource runcode in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//runcode
+[       172] Found new resource race in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race
+[       188] Found new resource race-test in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       203] Found new resource irc in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/irc
+[       219] Found new resource obituary in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary
+[       235] Found new resource obituary-deaths in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       250] Found new resource playernames in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/playernames
+[       250] Found new resource mapmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[managers]/mapmanager
+[       266] Found new resource baseevents in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/baseevents
+[       281] Found new resource chat in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/chat
+[       281] Found new resource hardcap in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/hardcap
+[       297] Found new resource rconlog in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/rconlog
+[       313] Found new resource scoreboard in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/scoreboard
+[       313] Found new resource sessionmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/spawnmanager
+[       344] Found new resource betaguns in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/betaguns
+[       360] Found new resource gameInit in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/gameInit
+[       360] Found new resource keks in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/keks
+[       391] Started resource sessionmanager
+[       406] Started resource mapmanager
+[       422] Started resource chat
+[       438] Started resource spawnmanager
+[       438] Started gametype Freeroam
+[       453] Started resource fivem
+[       453] Started resource hardcap
+[       469] Started resource rconlog
+[       485] Started resource scoreboard
+[       500] Started resource playernames
+[       500] Authenticating server license key...
+[      1406] Server license key authentication succeeded. Welcome!
+[      1469] Sending heartbeat to live-internal.fivem.net:30110
+[      1485] Started map fivem-map-skater
+[      1485] Started resource fivem-map-skater
+[    181516] Sending heartbeat to live-internal.fivem.net:30110
+[    344531] Initializing Mono
+[    344547] Initializing Mono completed
+[    344563] Hello!
+[    344594] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    344625] ^3Couldn't find resource sessionmanager.^7
+[    344641] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    361578] Sending heartbeat to live-internal.fivem.net:30110
+[    380328] Initializing Mono
+[    380344] Initializing Mono completed
+[    380360] Hello!
+[    380391] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    380422] Found new resource fivem in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem
+[    380422] Found new resource fivem-awesome1501 in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-awesome1501
+[    380438] Found new resource fivem-map-hipster in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-hipster
+[    380453] Found new resource fivem-map-skater in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-skater
+[    380469] Found new resource runcode in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//runcode
+[    380469] Found new resource race in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race
+[    380485] Found new resource race-test in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race-test
+[    380500] Found new resource channelfeed in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/channelfeed
+[    380500] Found new resource irc in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/irc
+[    380516] Found new resource obituary in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary
+[    380531] Found new resource obituary-deaths in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[    380547] Found new resource playernames in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/playernames
+[    380547] Found new resource mapmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[managers]/mapmanager
+[    380563] Found new resource baseevents in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/baseevents
+[    380578] Found new resource chat in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/chat
+[    380578] Found new resource hardcap in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/hardcap
+[    380594] Found new resource rconlog in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/rconlog
+[    380610] Found new resource scoreboard in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/scoreboard
+[    380610] Found new resource sessionmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/sessionmanager
+[    380625] Found new resource spawnmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/spawnmanager
+[    380641] Found new resource betaguns in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/betaguns
+[    380641] Found new resource gameInit in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/gameInit
+[    380656] Found new resource keks in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/keks
+[    380688] Started resource sessionmanager
+[    380688] Listening on socket failed - libuv error address already in use.
+[    380703] net-tcp-server failed to create server: couldn't listenCould not bind MultiplexTcpServer to 0.0.0.0:30120.
+[    380703] Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[    380719] Started resource mapmanager
+[    380735] Started resource chat
+[    380735] Started resource spawnmanager
+[    380750] Started gametype Freeroam
+[    380750] Started resource fivem
+[    380766] Started resource hardcap
+[    380781] Started resource rconlog
+[    380781] Started resource scoreboard
+[    380797] Started resource playernames
+[    380813] Authenticating server license key...
+[    382406] Server license key authentication succeeded. Welcome!
+[    382469] Sending heartbeat to live-internal.fivem.net:30110
+[    382469] Started map fivem-map-hipster
+[    382485] Started resource fivem-map-hipster
+[    530500] Connecting: hp
+[    540938] Sending heartbeat to live-internal.fivem.net:30110
+[    562485] Sending heartbeat to live-internal.fivem.net:30110
+[    721000] Sending heartbeat to live-internal.fivem.net:30110
+[    742531] Sending heartbeat to live-internal.fivem.net:30110
+[    901016] Sending heartbeat to live-internal.fivem.net:30110
+[    922547] Sending heartbeat to live-internal.fivem.net:30110
+[    932875] Sending heartbeat to live-internal.fivem.net:30110
+[   1102594] Sending heartbeat to live-internal.fivem.net:30110
+[   1112922] Sending heartbeat to live-internal.fivem.net:30110
+[   1282610] Sending heartbeat to live-internal.fivem.net:30110
+[   1292922] Sending heartbeat to live-internal.fivem.net:30110
+[   1462625] Sending heartbeat to live-internal.fivem.net:30110
+[   1472953] Sending heartbeat to live-internal.fivem.net:30110
+[   1642641] Sending heartbeat to live-internal.fivem.net:30110
+[   1652969] Sending heartbeat to live-internal.fivem.net:30110
+[   1822656] Sending heartbeat to live-internal.fivem.net:30110
+[   1833016] Sending heartbeat to live-internal.fivem.net:30110
+[   2002672] Sending heartbeat to live-internal.fivem.net:30110
+[   2013047] Sending heartbeat to live-internal.fivem.net:30110
+[   2182703] Sending heartbeat to live-internal.fivem.net:30110
+[   2193063] Sending heartbeat to live-internal.fivem.net:30110
+[   2362719] Sending heartbeat to live-internal.fivem.net:30110
+[   2373094] Sending heartbeat to live-internal.fivem.net:30110
+[   2542781] Sending heartbeat to live-internal.fivem.net:30110
+[   2553110] Sending heartbeat to live-internal.fivem.net:30110
+[   2722828] Sending heartbeat to live-internal.fivem.net:30110
+[   2733141] Sending heartbeat to live-internal.fivem.net:30110
+[   2902844] Sending heartbeat to live-internal.fivem.net:30110
+[   2913156] Sending heartbeat to live-internal.fivem.net:30110
+[   3082860] Sending heartbeat to live-internal.fivem.net:30110
+[   3093172] Sending heartbeat to live-internal.fivem.net:30110
+[   3262922] Sending heartbeat to live-internal.fivem.net:30110
+[   3273203] Sending heartbeat to live-internal.fivem.net:30110
+[   3442938] Sending heartbeat to live-internal.fivem.net:30110
+[   3453219] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       219] Initializing Mono completed
+[       297] Hello!
+[       406] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       500] Found new resource fivem in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem
+[       531] Found new resource fivem-awesome1501 in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-awesome1501
+[       547] Found new resource fivem-map-hipster in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-hipster
+[       578] Found new resource fivem-map-skater in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//fivem-map-skater
+[       578] Found new resource runcode in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//runcode
+[       609] Found new resource race in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race
+[       625] Found new resource race-test in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gamemodes]/race-test
+[       641] Found new resource channelfeed in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       672] Found new resource irc in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/irc
+[       687] Found new resource obituary in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary
+[       703] Found new resource obituary-deaths in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       734] Found new resource playernames in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[gameplay]/playernames
+[       750] Found new resource mapmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[managers]/mapmanager
+[       781] Found new resource baseevents in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/baseevents
+[       797] Found new resource chat in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/chat
+[       812] Found new resource hardcap in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/hardcap
+[       844] Found new resource rconlog in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/rconlog
+[       859] Found new resource scoreboard in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/scoreboard
+[       875] Found new resource sessionmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/sessionmanager
+[       891] Found new resource spawnmanager in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[system]/spawnmanager
+[       922] Found new resource betaguns in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/betaguns
+[       937] Found new resource gameInit in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/gameInit
+[       953] Found new resource keks in C:/ServerNameWithoutSpaces\cfx-server-data-master/resources//[test]/keks
+[      1047] Started resource sessionmanager
+[      1125] Started resource mapmanager
+[      1375] Started resource chat
+[      1391] Started resource spawnmanager
+[      1437] Started gametype Freeroam
+[      1437] Started resource fivem
+[      1469] Started resource hardcap
+[      1516] Started resource rconlog
+[      1609] Started resource scoreboard
+[      1672] Started resource playernames
+[      1687] Authenticating server license key...
+[      3437] Server license key authentication succeeded. Welcome!
+[      3500] Sending heartbeat to live-internal.fivem.net:30110
+[      3531] Started map fivem-map-hipster
+[      3547] Started resource fivem-map-hipster
